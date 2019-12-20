@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;;;GAIG;ACMD,OAAO,CAAC,+EAAI;ADLb,AAAA,CAAC,CAAC;EACD,sBAAsB,EAAE,WAAW;EACnC,uBAAuB,EAAE,SAAS;EAClC,aAAa,EAAE,CAAC;CACjB;;ACTD;;;GAGG;AAGH;;GAEG;AAKF;;IAEG;AAGH;;IAEG;AEpBJ,AAAA,MAAM,CAAA;EACF,KAAK,EFeD,OAAO;EEdX,WAAW,EFSN,aAAa,EAAE,KAAK;CER5B",
+    "sources": [
+        "style.scss",
+        "modules/variables.scss",
+        "modules/mixins.scss",
+        "pages/index.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}

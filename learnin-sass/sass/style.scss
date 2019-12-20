@@ -4,16 +4,15 @@
  * Main `sass` file. Import here `sass` files
  */
  * {
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    margin-bottom: 0;
-  }
-
-//Modules 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin-bottom: 0;
+}
+// Modules
 @import "modules/variables";
-@import "modules/mixins"
+@import "modules/mixins";
 
-//Pages
+// Pages
 @import "pages/index.scss";
 
  
